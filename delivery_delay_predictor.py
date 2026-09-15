@@ -1,4 +1,4 @@
-%%writefile delivery_delay_predictor.py
+
 
 import streamlit as st
 import pandas as pd
